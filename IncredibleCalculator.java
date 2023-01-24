@@ -30,7 +30,7 @@ public class IncredibleCalculator {
                 System.out.println("La resta tiene como resultado " + resta(n1, n2));
                 break;
             case 3: // Multiplicar. Debes leer dos números enteros de entrada e imprimir su producto.
-                System.out.println("Indique el primer número a multiplicar");
+                System.out.println("Indique el primers número a multiplicar");
                 n1 = leerEnteroEntrada();
                 System.out.println("Indique el segundo número a multipllicar");
                 n2 = leerEnteroEntrada();
