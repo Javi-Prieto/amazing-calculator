@@ -37,7 +37,7 @@ public class IncredibleCalculator {
                 System.out.println("La resta tiene como resultado " + multiplicacion(n1, n2));
                     break;
             case 4: // Multiplicar. Debes leer dos números enteros de entrada e imprimir su división entera.
-                System.out.println("Indique el dividendos");
+                System.out.println("Indique el dividendo");
                 n1 = leerEnteroEntrada();
                 System.out.println("Indique el divisor");
                 n2 = leerEnteroEntrada();
